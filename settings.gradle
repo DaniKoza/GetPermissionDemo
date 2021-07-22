@@ -1,0 +1,3 @@
+rootProject.name = "GetPermissionDemo"
+include ':app'
+include ':GetPermission'
